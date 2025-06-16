@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github.com/rahulkumargit1/FIFA-Player-Rating-Prediction-with-Linear-Regression/blob/main/dataset-cover.jpg" alt="fifa cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
 </div>
+
 ## Project Overview
 This project aims to predict player ratings in FIFA 23 using linear regression. The dataset, `FIFA23_official_data.csv`, contains detailed attributes of football players, including their age, nationality, club, overall rating, potential, value, wage, and various performance metrics. The analysis includes data preprocessing, exploratory data analysis, and building a linear regression model to predict the `Overall` rating based on selected features.
 
